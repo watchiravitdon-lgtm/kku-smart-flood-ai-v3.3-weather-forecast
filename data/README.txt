@@ -1,0 +1,1 @@
+Generated prototype training dataset. Not real flood observations. Regenerate with python generate_data.py.
